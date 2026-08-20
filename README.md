@@ -9,3 +9,5 @@ Create a fork in your account then clone it onto your system then modify the bel
 > Brownie Points to the best pickup line
 
 Slides Link - https://canva.link/6s5vv9nxfvgztbg
+
+The name says it, I am around... So stop loafing and go to work
