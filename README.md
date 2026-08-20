@@ -4,7 +4,7 @@ Git Tutorial for Elec Club Coords and PMs 2026
 Create a fork in your account then clone it onto your system then modify the below line - 
 
 **YOUR TEXT HERE**
-
+pavan bro survived mani
 > [!NOTE]
 > Brownie Points to the best pickup line
 
